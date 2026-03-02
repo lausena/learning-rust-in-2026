@@ -1,4 +1,4 @@
-# build-script-example
+# Learning Rust in 2026
 
 A Rust project demonstrating C interoperability via FFI (Foreign Function Interface). The main binary calls a C function (`count_spaces`) from Rust using a Cargo build script to compile and link the C code.
 
